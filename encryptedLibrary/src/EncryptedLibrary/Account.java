@@ -3,7 +3,6 @@
  * Account stores an application name
  * as well as the username and password
  * associated with the application
- * \\Test//
 ********************************************************************/
 package EncryptedLibrary;
 
